@@ -1,0 +1,1 @@
+export default function Spinner(){return (<div className='flex items-center justify-center gap-2 text-slate-600'><span className='animate-spin inline-block w-5 h-5 rounded-full border-2 border-slate-400 border-t-transparent'></span><span>Processing...</span></div>);} 
